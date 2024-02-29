@@ -1,0 +1,8 @@
+username = admin1
+password = 123
+level = Admin
+
+
+username = petugas
+password = petugas
+level = Petugas
